@@ -1,0 +1,16 @@
+.main-text {
+	margin-top: 2vw;
+	margin-right: 10vw;
+	margin-left: 10vw;
+}
+.btn btn-primary {
+	width: 100px;
+	height: 30px;
+	margin-top: 2vw;
+}
+.result {
+	border: 1px;
+	width: 600px;
+	padding-left: 5px;
+	margin-top: 2vw;
+}
